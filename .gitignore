@@ -3,3 +3,4 @@ my_repos/*
 !my_repos/.gitkeep
 starred_repos/*
 !starred_repos/.gitkeep
+__pycache__/
